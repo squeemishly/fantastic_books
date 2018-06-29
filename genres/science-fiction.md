@@ -1,6 +1,6 @@
 # Science Fiction
 
-[BACK](/README.md)
+[HOME](/README.md)
 
 * Octavia Butler
 	* Parable of the Sower
