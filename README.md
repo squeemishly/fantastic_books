@@ -4,5 +4,5 @@ I hope you find your next fantastic book here!
 
 ### Select a genre:
 
-* Science Fiction
+* [Science Fiction](/genres/science-fiction.md)
 * Fantasy
