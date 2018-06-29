@@ -8,3 +8,6 @@
 
 * N.K. Jemisin
 	* The Fifth Season
+
+* Rivers Solomon
+	* An Unkindness of Ghosts
