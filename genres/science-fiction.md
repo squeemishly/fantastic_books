@@ -1,6 +1,6 @@
 # Science Fiction
 
-[BACK](././)
+[BACK](/README.md)
 
 * Octavia Butler
 	* Parable of the Sower
